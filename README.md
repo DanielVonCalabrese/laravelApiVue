@@ -1,0 +1,2 @@
+# laravelApiVue
+Example project
